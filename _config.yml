@@ -1,4 +1,4 @@
-title: AG Repo
+title: AG Jekyll Blog
 description: > # this means to ignore newlines until "baseurl:"
   GitHub Pages Jekyll
 permalink: ':title/'
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: AG # add your name
 author-img: ag.jpg # add your photo
-about-author: Certified personal trainer. # add description
+about-author: Jekyll Blog Experimenting # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
